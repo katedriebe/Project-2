@@ -1,0 +1,112 @@
+ClassNumber,Mnemonic,Number,Section,Type,Units,Instructor,Days,Room,Title,Topic,Status,Enrollment,EnrollmentLimit,Waitlist
+18563,LPPA,4250,100,Lecture,3,Molly Johnson,TuTh 11:00AM - 12:15PM,Rouss Hall 403,Choice and Consequences: The Economics of Public Policy,,Wait List,48,48,2
+19644,LPPA,4250,101,Discussion,0,Olivia Davis,Mo 7:00PM - 7:50PM,The Rotunda Room 150,Choice and Consequences: The Economics of Public Policy,,Wait List,23,23,1
+19645,LPPA,4250,102,Discussion,0,Olivia Davis,We 6:00PM - 6:50PM,The Rotunda Room 150,Choice and Consequences: The Economics of Public Policy,,Wait List,25,25,1
+18564,LPPA,4250,200,Lecture,3,Molly Johnson,TuTh 2:00PM - 3:15PM,Rouss Hall 403,Choice and Consequences: The Economics of Public Policy,,Open,27,48,0
+19646,LPPA,4250,201,Discussion,0,Aidan Brown,Mo 6:00PM - 6:50PM,New Cabell Hall 368,Choice and Consequences: The Economics of Public Policy,,Open,17,24,0
+19647,LPPA,4250,202,Discussion,0,Aidan Brown,We 7:00PM - 7:50PM,The Rotunda Room 150,Choice and Consequences: The Economics of Public Policy,,Open,10,24,0
+18833,LPPA,7035,1,Seminar,3,William Shobe,We 3:30PM - 6:00PM,Nau Hall 211,Benefit-Cost Analysis,,Open,29,30,0
+18582,LPPA,7110,100,Lecture,3,Jay Shimshack,TuTh 9:30AM - 10:45AM,Monroe Hall 122,Economics of Public Policy II,,Wait List,45,44,1
+19648,LPPA,7110,101,Discussion,0,Naomi Gaba,Tu 5:00PM - 5:50PM,Lower West Oval Room 102,Economics of Public Policy II,,Open,18,20,0
+19649,LPPA,7110,102,Discussion,0,Naomi Gaba,Tu 1:00PM - 1:50PM,Lower West Oval Room 102,Economics of Public Policy II,,Wait List,25,25,1
+18583,LPPA,7110,200,Lecture,3,Jay Shimshack,TuTh 12:30PM - 1:45PM,Monroe Hall 122,Economics of Public Policy II,,Open,35,44,0
+19650,LPPA,7110,201,Discussion,0,Caroline Shoaibi,Tu 11:00AM - 11:50AM,Lower West Oval Room 102,Economics of Public Policy II,,Wait List,23,22,0
+19651,LPPA,7110,202,Discussion,0,Caroline Shoaibi,We 5:00PM - 5:50PM,The Rotunda Room 150,Economics of Public Policy II,,Open,12,22,0
+18830,LPPA,7160,100,Lecture,3,D Tello-Trillo,MoWe 8:45AM - 10:00AM,Monroe Hall 122,Research Methods and Data Analysis II,,Open,37,44,0
+19652,LPPA,7160,101,Discussion,0,Caroline Snead,We 11:00AM - 11:50AM,Maury Hall 110,Research Methods and Data Analysis II,,Open,21,22,0
+19653,LPPA,7160,102,Discussion,0,Caroline Snead,Tu 2:00PM - 2:50PM,Lower West Oval Room 102,Research Methods and Data Analysis II,,Open,16,22,0
+18831,LPPA,7160,200,Lecture,3,Sally Hudson,MoWe 10:15AM - 11:30AM,Monroe Hall 122,Research Methods and Data Analysis II,,Open,45,46,0
+19654,LPPA,7160,201,Discussion,0,Carolyn Ours,We 9:00AM - 9:50AM,Maury Hall 110,Research Methods and Data Analysis II,,Wait List,26,25,0
+19655,LPPA,7160,202,Discussion,0,Carolyn Ours,Th 5:00PM - 5:50PM,Monroe Hall 122,Research Methods and Data Analysis II,,Open,19,21,0
+18835,LPPA,8680,1,Lecture,3,Sarah Turner,MoWe 2:00PM - 3:15PM,Ruffner Hall 173,Economics of Higher Education Policy,,Open,5,10,0
+20282,LPPL,2100,100,Lecture,2,Timothy Davis,Mo 1:00PM - 1:50PM,Ruffner Hall G004,"The Resilient Student: Transition, Thriving, and Leadership",,Open,73,75,12
+20283,LPPL,2100,101,Discussion,0,"Megan Maddox,Timothy Davis",We 12:00PM - 12:50PM,New Cabell Hall 068,"The Resilient Student: Transition, Thriving, and Leadership",,Wait List,15,15,4
+20284,LPPL,2100,102,Discussion,0,"Anna Sullivan,Timothy Davis",We 12:00PM - 12:50PM,Bryan Hall 203,"The Resilient Student: Transition, Thriving, and Leadership",,Open,14,15,0
+20285,LPPL,2100,103,Discussion,0,"Everette Fortner,Timothy Davis",We 12:00PM - 12:50PM,Ruffner Hall 123,"The Resilient Student: Transition, Thriving, and Leadership",,Open,14,15,1
+20286,LPPL,2100,104,Discussion,0,"James Pattie,Timothy Davis",We 1:00PM - 1:50PM,Bryan Hall 203,"The Resilient Student: Transition, Thriving, and Leadership",,Wait List,15,15,5
+20287,LPPL,2100,105,Discussion,0,Timothy Davis,We 2:00PM - 2:50PM,New Cabell Hall 068,"The Resilient Student: Transition, Thriving, and Leadership",,Wait List,15,15,2
+18854,LPPL,3450,1,Lecture,3,Timothy Davis,TuTh 11:00AM - 12:15PM,Gibson Hall 211,Resilient Leadership for Teams and Teammates,,Wait List,47,47,17
+19657,LPPL,4225,1,Lecture,2,"Patricia Lampkin,Stephen Cushman",Mo 5:00PM - 7:00PM,The Rotunda Room 150,Leadership and Practice,,Open,14,15,0
+19350,LPPL,5035,1,Seminar,3,Sophie Trawalter,We 2:00PM - 4:30PM,Maury Hall 115,Leading and Managing Diverse Groups,,Open,13,30,0
+18856,LPPL,6050,100,Lecture,3,Andrew Pennock,MoWe 3:30PM - 4:45PM,Monroe Hall 122,Leadership in the Public Arena,,Open,41,44,0
+19803,LPPL,6050,101,Discussion,0,Andrew Pennock,Mo 5:00PM - 5:50PM,Monroe Hall 113,Leadership in the Public Arena,,Wait List,8,7,0
+19804,LPPL,6050,102,Discussion,0,Andrew Pennock,Tu 11:00AM - 11:50AM,Monroe Hall 113,Leadership in the Public Arena,,Wait List,7,7,0
+19806,LPPL,6050,103,Discussion,0,Andrew Pennock,We 11:35AM - 12:25PM,Monroe Hall 122,Leadership in the Public Arena,,Wait List,8,7,0
+19807,LPPL,6050,104,Discussion,0,Andrew Pennock,Th 11:00AM - 11:50AM,Monroe Hall 113,Leadership in the Public Arena,,Wait List,7,7,0
+20013,LPPL,6050,105,Discussion,0,Andrew Pennock,Th 4:00PM - 4:50PM,Monroe Hall 113,Leadership in the Public Arena,,Open,5,7,0
+20563,LPPL,6050,106,Discussion,0,Andrew Pennock,Tu 11:00AM - 11:50AM,Pavilion V 109,Leadership in the Public Arena,,Open,6,7,0
+18858,LPPL,7055,1,Seminar,3,Eileen Chou,Tu 3:30PM - 6:00PM,Rouss Hall 403,Strategies and Processes of Negotiation,,Open,18,30,0
+18549,LPPP,3230,100,Lecture,3,Gerald Warburg,MoWe 3:00PM - 3:50PM,Nau Hall 101,Public Policy Challenges of the 21st Century,,Open,202,204,0
+19614,LPPP,3230,101,Discussion,0,Conor Boyle,Mo 10:00AM - 10:50AM,The Rotunda Room 152,Public Policy Challenges of the 21st Century,,Wait List,20,20,0
+19615,LPPP,3230,102,Discussion,0,Alexa Iadarola,Mo 5:00PM - 5:50PM,New Cabell Hall 291,Public Policy Challenges of the 21st Century,,Wait List,20,20,0
+19616,LPPP,3230,103,Discussion,0,Isabel Coughlin,Mo 5:00PM - 5:50PM,New Cabell Hall 368,Public Policy Challenges of the 21st Century,,Wait List,22,22,0
+19617,LPPP,3230,104,Discussion,0,Katharine Landers,Mo 6:00PM - 6:50PM,The Rotunda Room 152,Public Policy Challenges of the 21st Century,,Wait List,20,20,0
+19618,LPPP,3230,105,Discussion,0,Katharine Landers,Tu 6:00PM - 6:50PM,The Rotunda Room 152,Public Policy Challenges of the 21st Century,,Open,19,20,0
+19619,LPPP,3230,106,Discussion,0,Alexa Iadarola,Tu 7:00PM - 7:50PM,The Rotunda Room 150,Public Policy Challenges of the 21st Century,,Open,15,20,0
+19620,LPPP,3230,107,Discussion,0,Isabel Coughlin,We 10:00AM - 10:50AM,The Rotunda Room 152,Public Policy Challenges of the 21st Century,,Wait List,20,20,0
+19624,LPPP,3230,108,Discussion,0,Anna Higgins,We 5:00PM - 5:50PM,New Cabell Hall 332,Public Policy Challenges of the 21st Century,,Wait List,24,22,0
+19625,LPPP,3230,109,Discussion,0,Conor Boyle,Tu 6:00PM - 6:50PM,New Cabell Hall 395,Public Policy Challenges of the 21st Century,,Wait List,22,22,0
+19626,LPPP,3230,110,Discussion,0,Anna Higgins,Th 2:00PM - 2:50PM,Fayerweather Hall 206,Public Policy Challenges of the 21st Century,,Wait List,20,20,0
+19596,LPPP,3500,1,Lecture,3,Sally Hudson,MoWe 2:00PM - 3:15PM,Rouss Hall 403,Special Topics in Social Entrepreneurship,Measuring Social Impact,Open,20,40,0
+19597,LPPP,3500,2,Lecture,3,Danielle Hopkins,TuTh 9:30AM - 10:45AM,Minor Hall 130,Special Topics in Social Entrepreneurship,Financial Inclusion,Open,16,30,0
+19598,LPPP,3500,3,Lecture,3,Mary-Elizabeth Bruce,Tu 3:30PM - 6:00PM,Minor Hall 130,Special Topics in Social Entrepreneurship,Leadership for Social Impact,Open,27,30,0
+19285,LPPP,3559,1,Lecture,3,"Erin Hall,Kathleen Shevlin,Tara Telfair",TuTh 9:30AM - 10:45AM,Ruffner Hall 175,New Course in Public Policy and Leadership,Practicl Nonprofit Fundraising,Open,24,30,0
+19608,LPPP,3559,2,Lecture,3,Kristen Jamison,MoWe 3:30PM - 4:45PM,Rouss Hall 403,New Course in Public Policy and Leadership,Child Poverty in Schools,Wait List,48,48,0
+18560,LPPP,4200,1,Lecture,3,Paul Martin,TuTh 9:30AM - 10:45AM,Rouss Hall 403,Institutional and Political Context of Public Policy,,Open,37,48,0
+18561,LPPP,4200,2,Lecture,3,Paul Martin,TuTh 12:30PM - 1:45PM,Rouss Hall 403,Institutional and Political Context of Public Policy,,Open,47,48,0
+18568,LPPP,4210,1,Lecture,3,Richard Campanelli,TuTh 11:00AM - 12:15PM,Monroe Hall 122,Integrating Ethics in Public Policy,,Open,39,45,0
+18569,LPPP,4210,2,Lecture,3,Richard Campanelli,TuTh 2:00PM - 3:15PM,Monroe Hall 122,Integrating Ethics in Public Policy,,Wait List,45,45,1
+20884,LPPP,4559,1,Lecture,3,Harry Harding,Th 2:00PM - 4:30PM,Bryan Hall 312,New Course in Public Policy and Leadership,Leadership:US Policy to China,Open,2,18,0
+19257,LPPP,4991,1,Seminar,3,Jeffrey Bergner,Mo 12:30PM - 3:00PM,Contact Department,Capstone Seminar,Fixing a Dysfunctionl Congress,Closed,17,17,0
+19258,LPPP,4991,2,Seminar,3,Lucy Bassett,We 9:30AM - 12:00PM,Contact Department,Capstone Seminar,Internt'l Dev. Policy Children,Closed,18,17,0
+19259,LPPP,4991,3,Seminar,3,Paul Martin,We 12:30PM - 3:00PM,Contact Department,Capstone Seminar,Policy Conflct/Peace in N IRL,Open,0,20,0
+19262,LPPP,4991,4,Seminar,3,Balashankar Mulloth,We 3:30PM - 6:00PM,Contact Department,Capstone Seminar,Developing a New Social Ventur,Open,16,17,0
+19265,LPPP,4991,5,Seminar,3,Raymond Scheppach,Th 3:30PM - 6:00PM,The Rotunda Room 150,Capstone Seminar,Health Care Reform,Open,13,17,0
+21136,LPPP,4993,2,Independent Study,6-Jan,Kirsten Gelsdorf,TBA,TBA,Independent Study,,Closed,1,1,0
+19338,LPPP,5540,1,Workshop,2,Brooke Lehmann,Fr 2:00PM - 4:30PM,Monroe Hall 122,Applied Policy Clinics,Advocacy & Lobbying Clinic,Open,9,10,0
+19339,LPPP,5540,2,Workshop,2,Galen Fountain,Fr 2:00PM - 4:30PM,Rouss Hall 403,Applied Policy Clinics,Fiscal Policy Clinic,Open,5,10,0
+19340,LPPP,5540,3,Workshop,2,Michele Claibourn,Fr 2:00PM - 4:30PM,The Rotunda Room 152,Applied Policy Clinics,Public Interest Data Lab,Wait List,11,10,0
+18845,LPPP,6250,1,Lecture,3,Daniel Player,MoWe 12:30PM - 1:45PM,Monroe Hall 122,Policy Analysis,,Open,41,46,0
+18846,LPPP,6250,2,Lecture,3,Daniel Player,MoWe 2:00PM - 3:15PM,Monroe Hall 122,Policy Analysis,,Open,40,46,0
+19341,LPPP,6500,1,Seminar,1,Daniel Reifsnyder,Mo 7:00PM - 9:30PM,Monroe Hall 122,Topics in Public Policy,Multilaterl Envirnmtl Negotiat,Open,14,30,0
+19342,LPPP,6500,2,Seminar,1,Adam Felder,We 7:00PM - 9:30PM,New Cabell Hall 268,Topics in Public Policy,Data Wrangling in Excel,Wait List,25,22,1
+19343,LPPP,6500,3,Seminar,1,Matthew Olsen,Fr 2:00PM - 4:30PM,Bryan Hall 328,Topics in Public Policy,"Nat'l Security,Oversight&Press",Open,10,30,0
+20535,LPPP,6500,4,Seminar,1,Paul Becker,Mo 7:00PM - 9:30PM,Bryan Hall 332,Topics in Public Policy,Leading Intelligence Policy,Open,8,30,0
+19599,LPPP,7559,1,Lecture,3,Todd Sechser,Th 2:00PM - 4:30PM,Ruffner Hall G006,New Course in Public Policy and Leadership,Nuclear Weapons&Foreign Policy,Open,13,25,0
+19605,LPPP,7559,2,Lecture,3,Brad Carson,Tu 3:30PM - 6:00PM,Monroe Hall 122,New Course in Public Policy and Leadership,Military Power and War,Open,13,20,0
+20065,LPPP,7559,3,Lecture,3,Brian Williams,Tu 3:30PM - 6:00PM,New Cabell Hall 332,New Course in Public Policy and Leadership,CoProductn:Public&NonProf Svc,Open,15,30,0
+20128,LPPP,7559,4,Lecture,3,Harry Harding,Th 2:00PM - 4:30PM,Bryan Hall 312,New Course in Public Policy and Leadership,Leadershp Amer Policy to China,Open,2,18,0
+19810,LPPP,7600,1,Independent Study,3,Leora Friedberg,TBA,TBA,Thesis Project,,Closed,13,13,0
+19812,LPPP,7600,2,Independent Study,3,Kirsten Gelsdorf,TBA,TBA,Thesis Project,,Closed,13,13,0
+19813,LPPP,7600,3,Independent Study,3,Jeanine Braithwaite,TBA,TBA,Thesis Project,,Closed,11,11,0
+19814,LPPP,7600,4,Independent Study,3,D Tello-Trillo,TBA,TBA,Thesis Project,,Closed,13,13,0
+19815,LPPP,7600,5,Independent Study,3,Lucy Bassett,TBA,TBA,Thesis Project,,Closed,13,13,0
+19816,LPPP,7600,6,Independent Study,3,Andrew Pennock,TBA,TBA,Thesis Project,,Closed,13,13,0
+19318,LPPP,7610,1,Seminar,3,Leora Friedberg,Mo 3:30PM - 6:00PM,The Rotunda Room 152,Applied Policy Project,,Closed,13,13,0
+19319,LPPP,7610,2,Seminar,3,Kirsten Gelsdorf,We 5:00PM - 7:30PM,Campbell Hall 108,Applied Policy Project,,Closed,13,13,0
+19320,LPPP,7610,3,Seminar,3,Jeanine Braithwaite,Tu 3:30PM - 6:00PM,The Rotunda Room 152,Applied Policy Project,,Closed,11,11,0
+19321,LPPP,7610,4,Seminar,3,D Tello-Trillo,Th 9:00AM - 11:30AM,Contact Department,Applied Policy Project,,Closed,13,13,0
+19322,LPPP,7610,5,Seminar,3,Lucy Bassett,Th 2:00PM - 4:30PM,The Rotunda Room 152,Applied Policy Project,,Closed,13,13,0
+19323,LPPP,7610,6,Seminar,3,Andrew Pennock,Fr 9:00AM - 11:30AM,Monroe Hall 122,Applied Policy Project,,Closed,13,13,0
+20838,LPPP,7993,3,Independent Study,6-Jan,Jeanine Braithwaite,TBA,TBA,Independent Study,,Open,4,6,0
+20842,LPPP,7993,4,Independent Study,6-Jan,Raymond Scheppach,TBA,TBA,Independent Study,,Open,1,2,0
+19601,LPPS,3050,1,Seminar,3,Balashankar Mulloth,Th 3:30PM - 6:00PM,Gilmer Hall 141,Introduction to Social Entrepreneurship,,Open,53,55,27
+18818,LPPS,3240,1,Lecture,3,Brad Carson,TuTh 12:30PM - 1:45PM,McLeod Hall 1004,Terrorism and Counterterrorism,,Open,48,50,4
+18819,LPPS,3241,1,Lecture,3,Andrew Reynolds,Mo 5:00PM - 7:30PM,Mechanical Engineering 305,Science and Technology Policy for Interns,,Open,1,10,0
+20001,LPPS,3280,100,Lecture,3,Larry Sabato,MoWe 2:00PM - 2:50PM,Minor Hall 125,Lessons in Leadership: JFK and the Most Personal Office,,Open,148,150,4
+20002,LPPS,3280,101,Discussion,0,Maia Rosewelsh,Mo 5:00PM - 5:50PM,Monroe Hall 118,Lessons in Leadership: JFK and the Most Personal Office,,Wait List,27,27,3
+20003,LPPS,3280,102,Discussion,0,Brett Curtis,Mo 7:00PM - 7:50PM,New Cabell Hall 368,Lessons in Leadership: JFK and the Most Personal Office,,Wait List,25,25,2
+20005,LPPS,3280,103,Discussion,0,Charlotte deButts,Tu 5:00PM - 5:50PM,New Cabell Hall 338,Lessons in Leadership: JFK and the Most Personal Office,,Wait List,26,26,1
+20006,LPPS,3280,104,Discussion,0,Maia Rosewelsh,Tu 7:00PM - 7:50PM,New Cabell Hall 395,Lessons in Leadership: JFK and the Most Personal Office,,Open,22,23,0
+20007,LPPS,3280,105,Discussion,0,Charlotte deButts,We 5:00PM - 5:50PM,New Cabell Hall 368,Lessons in Leadership: JFK and the Most Personal Office,,Wait List,25,25,2
+20008,LPPS,3280,106,Discussion,0,Brett Curtis,Th 5:00PM - 5:50PM,New Cabell Hall 168,Lessons in Leadership: JFK and the Most Personal Office,,Open,23,24,0
+18820,LPPS,3290,1,Lecture,3,Balashankar Mulloth,Tu 3:30PM - 6:00PM,McLeod Hall 1004,Social Innovation in Emerging Markets: India and South East Asia,,Wait List,55,55,8
+18821,LPPS,3295,1,Lecture,3,Kirsten Gelsdorf,TuTh 3:30PM - 4:45PM,Minor Hall 125,Global Humanitarian Crises Response,,Open,158,160,0
+18822,LPPS,3410,1,Lecture,3,Steven Zausner,Mo 2:30PM - 5:00PM,McLeod Hall 1003,Innovation and Social Impact,,Open,38,40,3
+19766,LPPS,3470,1,Lecture,3,Robert Powers,Th 3:30PM - 6:00PM,Rouss Hall 403,American Healthcare Syst: Challenges & Opportunities,,Open,27,48,0
+18824,LPPS,4730,1,Lecture,3,Michael Nolde,Mo 3:30PM - 6:00PM,Wilson Hall 238,Impact Investing,,Wait List,30,30,6
+18825,LPPS,4735,1,Lecture,3,Christine Mahoney,Tu 9:00AM - 11:30AM,Contact Department,Experiential Social Entrepreneurship,,Wait List,23,22,0
+18826,LPPS,4735,2,Lecture,3,Christine Mahoney,Tu 2:30PM - 5:00PM,Gilmer Hall 166,Experiential Social Entrepreneurship,,Wait List,35,30,0
+19754,LPPS,5460,1,Lecture,3,James Savage,We 6:00PM - 8:30PM,New Cabell Hall 207,The Politics of the Budgetary Process,,Open,3,4,0
+18827,LPPS,6715,1,Seminar,3,Gerald Warburg,Tu 11:45AM - 2:15PM,Contact Department,Leadership in U.S. Foreign Policy: Best Practices for Advocates,,Wait List,22,22,0
+19595,LPPS,7230,1,Lecture,3,Brooke Lehmann,Mo 2:00PM - 4:30PM,Claude Moore Nursing Educ 1120,US Mental Health Policy,,Open,9,20,0
